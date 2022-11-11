@@ -1,0 +1,384 @@
+2022/11/09 18:42:28.764 I CsvDatasetReader               Reading single user CSV dataset at user samples... 
+2022/11/09 18:42:28.798 I CsvDatasetReader                   c:\repos\dataset\2078\2990424.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3508523.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3550223.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3560832.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3568888.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3684742.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3734500.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3792207.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3805012.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3850318.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3947830.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3952606.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3975804.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\3991016.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4008375.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4008376.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4008387.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4030398.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4054412.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4073877.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4074442.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4079104.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4087403.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4103333.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4107755.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4108932.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4113460.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4117783.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4132044.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4132153.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4136842.csv 
+2022/11/09 18:42:28.802 I CsvDatasetReader                   c:\repos\dataset\2078\4151752.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4155911.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4214645.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4215081.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4221349.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4275547.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4284387.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4327096.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4344091.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4348413.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4354204.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4364961.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4375975.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4376062.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4376152.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4379940.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4380995.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4393031.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4398331.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4414086.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4414121.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4414169.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4432928.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4432976.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4436993.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4438976.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4445482.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4446790.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4457348.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4457767.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4462556.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4462848.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4463241.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4466739.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4483258.csv 
+2022/11/09 18:42:28.818 I CsvDatasetReader                   c:\repos\dataset\2078\4492685.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4492761.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4492800.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4515921.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4521279.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4524359.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4562903.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4562970.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4573092.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4574086.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4580235.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4589385.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4589405.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4589406.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4595374.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4604148.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4635682.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4641869.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4642446.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4645564.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4645805.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4672234.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4672341.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4683307.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4683484.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4683835.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4693692.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4693850.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4697814.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4698341.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4708151.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4708602.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4714466.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4714502.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4714545.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4714674.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4714755.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4728268.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4728393.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4728918.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4729313.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4734833.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4735046.csv 
+2022/11/09 18:42:28.833 I CsvDatasetReader                   c:\repos\dataset\2078\4739879.csv 
+2022/11/09 18:42:28.846 I Program                        Cleaning samples... 
+2022/11/09 18:42:28.846 I CsvDatasetReader               Reading single user CSV dataset at target samples... 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\2990424.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3508523.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3550223.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3560832.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3568888.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3684742.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3734500.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3792207.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3805012.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3850318.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3947830.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3952606.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3975804.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\3991016.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4008375.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4008376.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4008387.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4030398.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4054412.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4073877.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4074442.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4079104.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4087403.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4103333.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4107755.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4108932.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4113460.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4117783.csv 
+2022/11/09 18:42:28.846 I CsvDatasetReader                   c:\repos\dataset\2078\4132044.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4132153.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4136842.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4151752.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4155911.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4214645.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4215081.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4221349.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4275547.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4284387.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4327096.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4344091.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4348413.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4354204.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4364961.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4375975.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4376062.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4376152.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4379940.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4380995.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4393031.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4398331.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4414086.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4414121.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4414169.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4432928.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4432976.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4436993.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4438976.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4445482.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4446790.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4457348.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4457767.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4462556.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4462848.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4463241.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4466739.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4483258.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4492685.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4492761.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4492800.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4515921.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4521279.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4524359.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4562903.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4562970.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4573092.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4574086.csv 
+2022/11/09 18:42:28.863 I CsvDatasetReader                   c:\repos\dataset\2078\4580235.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4589385.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4589405.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4589406.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4595374.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4604148.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4635682.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4641869.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4642446.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4645564.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4645805.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4672234.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4672341.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4683307.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4683484.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4683835.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4693692.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4693850.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4697814.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4698341.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4708151.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4708602.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4714466.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4714502.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4714545.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4714674.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4714755.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4728268.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4728393.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4728918.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4729313.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4734833.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4735046.csv 
+2022/11/09 18:42:28.880 I CsvDatasetReader                   c:\repos\dataset\2078\4739879.csv 
+2022/11/09 18:42:28.880 I Program                        Cleaning samples... 
+2022/11/09 18:42:28.880 I FiniteContextsConfiguration    Initialing model storage... 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      TD 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      DIE 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      DIL 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      HI 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration    Initialing features... 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      AvgStdev 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      Histogram 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      DIE 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      DIL 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      RMix 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      R1 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration    Initialing attributes... 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DM 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DE 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DMin 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DC 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_Z 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_HM 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_HE 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_HMin 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_HZ 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DIE 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_DIL 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_RAll 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_RMix 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      FT_R1 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      HT_DM 
+2022/11/09 18:42:28.895 I FiniteContextsConfiguration      HT_DE 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_DMin 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_DC 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_Z 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_HM 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_HE 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_HMin 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_HZ 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_DIE 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_DIL 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_RAll 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_RMix 
+2022/11/09 18:42:28.909 I FiniteContextsConfiguration      HT_R1 
+2022/11/09 18:42:28.909 I Program                        Building liveness detection model... 
+2022/11/09 18:42:28.909 I Program                            Creating user profile... 
+2022/11/09 18:42:29.321 I Program                            Synthesizing evil bot samples... 
+2022/11/09 18:42:29.626 I Program                            Training model... 
+2022/11/09 18:42:31.474 I Program                            Evaluating model... 
+2022/11/09 18:42:32.957 I Program                               FAR: 1% 
+2022/11/09 18:42:32.957 I Program                               FRR: 6% 
+2022/11/09 18:42:32.957 I Program                        Verifying target samples... 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\2990424.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3508523.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\3550223.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3560832.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3568888.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\3684742.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3734500.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\3792207.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3805012.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3850318.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\3947830.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3952606.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\3975804.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\3991016.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4008375.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4008376.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4008387.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4030398.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4054412.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4073877.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4074442.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4079104.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4087403.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4103333.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4107755.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4108932.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4113460.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4117783.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4132044.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4132153.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4136842.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4151752.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4155911.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4214645.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4215081.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4221349.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4275547.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4284387.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4327096.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4344091.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4348413.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4354204.csv 
+2022/11/09 18:42:33.520 I Program                            impostor    c:\repos\dataset\2078\4364961.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4375975.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4376062.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4376152.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4379940.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4380995.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4393031.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4398331.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4414086.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4414121.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4414169.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4432928.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4432976.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4436993.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4438976.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4445482.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4446790.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4457348.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4457767.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4462556.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4462848.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4463241.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4466739.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4483258.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4492685.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4492761.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4492800.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4515921.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4521279.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4524359.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4562903.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4562970.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4573092.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4574086.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4580235.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4589385.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4589405.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4589406.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4595374.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4604148.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4635682.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4641869.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4642446.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4645564.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4645805.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4672234.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4672341.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4683307.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4683484.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4683835.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4693692.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4693850.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4697814.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4698341.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4708151.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4708602.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4714466.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4714502.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4714545.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4714674.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4714755.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4728268.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4728393.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4728918.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4729313.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4734833.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4735046.csv 
+2022/11/09 18:42:33.520 I Program                            legitimate  c:\repos\dataset\2078\4739879.csv 
+2022/11/09 18:42:33.520 I Program                        Done. 
