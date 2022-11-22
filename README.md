@@ -76,6 +76,39 @@ The output file will be named _RESULTS.csv_ and will be created on the current w
 2. **verdict**. Verdict of the classification. _legitimate_ for samples detected as human-written and _impostor_ for samples detected as synthesized.
 
 
+### Binary files
+
+The precompiled binary files can be found under the KSD-SLD/bin/Debug folder. The executable name is KSD-SLD.exe.
+
+
+### Example run
+
+Before attempting liveness detection, the path to the WEKA 3.8.2 executable needs to be updated in the configuration file KSD-SLD.exe.config. There, the following keys must be located
+
+    <add key="path.java" value="C:\Program Files\Weka-3-8-6\jre\zulu17.32.13-ca-fx-jre17.0.2-win_x64\bin\javaw.exe" />
+    <add key="path.weka" value="C:\Program Files\Weka-3-8-6\" />
+
+and updated with the corresponding installation folder and executable file for the Java runtime embedded in the WEKA distribution.
+
+The folder _example-dataset_ contains an extract of dataset \[2\] for testing purposes, with human-written samples from one user under the subfolder _2078-HumanWritten_, and a copy of the same samples under _2078-Target_. Synthetic samples using the HISTOGRAM method and the same keystroke sequences as the human written sample can be generated with the following command:
+
+    KSDSLD _PATH_/example-dataset/2078-HumanWritten _PATH_/example-dataset/2078-Target SYNTHESIZE HISTOGRAM
+
+where _PATH_ is the path to the repository root folder in the computer where the software is being run. The synthetic samples will be written down to _PATH_/example-dataset/2078-Target. For example, the human-written sample
+
+    _PATH_/example-dataset/2078-Target/2990424.csv
+
+will have a corresponding synthesized sample of name
+
+    _PATH_/example-dataset/2078-Target/2990424-SYNTHESIZED-HISTOGRAM.csv
+
+after the execution of the command. We can now let the software build a classification model of the legitimate user and detect which of the samples are human-written and which are synthesized, with the command
+
+    KSDSLD _PATH_/example-dataset/2078-HumanWritten _PATH_/example-dataset/2078-Target VERIFY
+	
+The results will be written to the file RESULTS.csv.
+
+
 ### References
 
 [1] Nahuel González, Enrique P. Calot, Jorge S. Ierache, and Waldo Hasperué. Towards liveness detection in keystroke dynamics: Revealing synthetic forgeries. Systems and Soft Computing, 4:200037, 2022. ISSN 2772-9419. doi: [https://doi.org/10.1016/j.sasc.2022.200037](https://doi.org/10.1016/j.sasc.2022.200037). URL [https://www.sciencedirect.com/science/article/pii/S2772941922000047](https://www.sciencedirect.com/science/article/pii/S2772941922000047).
