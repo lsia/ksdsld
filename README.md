@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This software accompanies the article [1] and is provided as part of the article _KSDSLD - A Tool for Keystroke Dynamics Synthesis \& Liveness Detection_, to be published in Software Impacts, Elsevier. 
+This software accompanies the article [1] and is provided as part of the article _KSDSLD - A Tool for Keystroke Dynamics Synthesis \& Liveness Detection_, to be published in Software Impacts, Elsevier. The dataset [2] was generated using this tool. The methods employed by this tool are based on those of [3].
 
 With the objective of encouraging research about liveness detection in keystroke dynamics and making available our methods so other verification systems can be evaluated against them, we provide software and its source code that includes the following functionality:
 
@@ -50,7 +50,7 @@ The supported synthesis methods are
 4. HISTOGRAM
 5. NSHISTOGRAM
 
-The file names of the output samples will have the form _ORIGINAL_-SYNTHESIZED-_METHOD_.csv_, where the fields denote
+The file names of the output samples will have the form _ORIGINAL_-SYNTHESIZED-_METHOD_.csv, where the fields denote
 
 1. **ORIGINAL**. File name of the original sample with target text, excluding extension.
 2. **METHOD**. Method used to synthesize the output sample.
@@ -79,3 +79,7 @@ The output file will be named _RESULTS.csv_ and will be created on the current w
 ### References
 
 [1] Nahuel González, Enrique P. Calot, Jorge S. Ierache, and Waldo Hasperué. Towards liveness detection in keystroke dynamics: Revealing synthetic forgeries. Systems and Soft Computing, 4:200037, 2022. ISSN 2772-9419. doi: [https://doi.org/10.1016/j.sasc.2022.200037](https://doi.org/10.1016/j.sasc.2022.200037). URL [https://www.sciencedirect.com/science/article/pii/S2772941922000047](https://www.sciencedirect.com/science/article/pii/S2772941922000047).
+
+[2] Nahuel González and Enrique P. Calot. Dataset of human-written and synthesized samples of free-text keystroke dynamics to evaluate liveness detection methods. Data in Brief, 2022. Under review.
+
+[3] Nahuel González and Enrique P. Calot. Finite context modeling of keystroke dynamics in free text. In 2015 International Conference of the Biometrics Special Interest Group (BIOSIG), pages 1–5, 2015. ISBN 978-3-8857-9639-8. doi: 10.1109/BIOSIG.2015.7314606.
