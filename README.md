@@ -2,6 +2,8 @@
 
 ### Introduction
 
+This software accompanies the article [1] and is provided as part of the article _KSDSLD - A Tool for Keystroke Dynamics Synthesis \& Liveness Detection_, to be published in Software Impacts, Elsevier. 
+
 With the objective of encouraging research about liveness detection in keystroke dynamics and making available our methods so other verification systems can be evaluated against them, we provide software and its source code that includes the following functionality:
 
 * Forges synthesized samples of free-text keystroke dynamics, given their target texts and one or more authentic samples by the legitimate user to be impersonated.
