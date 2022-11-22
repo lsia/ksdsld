@@ -88,7 +88,7 @@ Before attempting liveness detection, the path to the WEKA 3.8.2 executable need
     <add key="path.java" value="C:\Program Files\Weka-3-8-6\jre\zulu17.32.13-ca-fx-jre17.0.2-win_x64\bin\javaw.exe" />
     <add key="path.weka" value="C:\Program Files\Weka-3-8-6\" />
 
-and updated with the corresponding installation folder and executable file for the Java runtime embedded in the WEKA distribution.
+and the _value_ attribute updated with the corresponding installation folder of WEKA 3.8.2 and the executable file name for the Java runtime embedded in its distribution.
 
 The folder _example-dataset_ contains an extract of dataset \[2\] for testing purposes, with human-written samples from one user under the subfolder _2078-HumanWritten_, and a copy of the same samples under _2078-Target_. Synthetic samples using the HISTOGRAM method and the same keystroke sequences as the human written sample can be generated with the following command:
 
