@@ -21,9 +21,9 @@ No Windows- or Microsoft-specific features in the execution environment are requ
 
 Input and output takes the form of CSV files. Each input sample is represented by CSV file with a fixed three column structure including virtual key code, hold time, and flight time for each keystroke, as shown below. Invalid or unknown timing values are represented with negative numbers. Samples by each user are grouped by folders. 
 
-1. **VK**. _Virtual key code__. Virtual key code identifying the current keystroke, as defined by [Microsoft reference](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
-2. **HT**. __Hold time__. Interval between key press and key release event, in milliseconds.
-3. **FT**. __Flight time__. Flight time & Interval between the previous key press event and this key press event, in milliseconds. Note that the first keystroke in the sample cannot have a valid flight time, because there is no previous key press event.
+1. **VK**. _Virtual key code_. Virtual key code identifying the current keystroke, as defined by [Microsoft reference](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
+2. **HT**. _Hold time_. Interval between key press and key release event, in milliseconds.
+3. **FT**. _Flight time_. Flight time & Interval between the previous key press event and this key press event, in milliseconds. Note that the first keystroke in the sample cannot have a valid flight time, because there is no previous key press event.
 
 
 
@@ -34,7 +34,7 @@ Sample synthesis requires as input the name of the synthesis method to employ, a
 
 The command line syntax for sample synthesis is
 
-KSDSLD {legitimateUserSamplesFolder} {targetTextSamplesFolder} SYNTHESIZE {method}
+    KSDSLD {legitimateUserSamplesFolder} {targetTextSamplesFolder} SYNTHESIZE {method}
 
 where the required parameters are
 
@@ -63,7 +63,7 @@ Liveness detection requires as input a set of human-written samples by the legit
 
 The command line syntax for sample synthesis is
 
-KSDSLD {legitimateUserSamplesFolder} {toBeVerifiedSamplesFolder} VERIFY 
+    KSDSLD {legitimateUserSamplesFolder} {toBeVerifiedSamplesFolder} VERIFY 
 
 where the required parameters are
 
