@@ -13,7 +13,7 @@
         8 1:legitimate 2:impostor   +   1 
         9 1:legitimate 2:impostor   +   1 
        10 1:legitimate 2:impostor   +   1 
-       11 1:legitimate 2:impostor   +   1 
+       11 1:legitimate 1:legitimate       1 
        12 1:legitimate 2:impostor   +   1 
        13 1:legitimate 2:impostor   +   1 
        14 1:legitimate 2:impostor   +   1 
@@ -38,134 +38,134 @@
        33 1:legitimate 2:impostor   +   1 
        34 1:legitimate 2:impostor   +   1 
        35 1:legitimate 2:impostor   +   1 
-       36 1:legitimate 1:legitimate       1 
+       36 1:legitimate 2:impostor   +   1 
        37 1:legitimate 2:impostor   +   1 
        38 1:legitimate 2:impostor   +   1 
        39 1:legitimate 2:impostor   +   1 
        40 1:legitimate 2:impostor   +   1 
        41 1:legitimate 2:impostor   +   1 
-       42 1:legitimate 2:impostor   +   1 
+       42 1:legitimate 1:legitimate       1 
        43 1:legitimate 2:impostor   +   1 
-       44 1:legitimate 2:impostor   +   1 
-       45 1:legitimate 2:impostor   +   1 
+       44 1:legitimate 1:legitimate       1 
+       45 1:legitimate 1:legitimate       1 
        46 1:legitimate 2:impostor   +   1 
        47 1:legitimate 2:impostor   +   1 
        48 1:legitimate 2:impostor   +   1 
-       49 1:legitimate 2:impostor   +   1 
+       49 1:legitimate 1:legitimate       1 
        50 1:legitimate 2:impostor   +   1 
        51 1:legitimate 2:impostor   +   1 
-       52 1:legitimate 2:impostor   +   1 
-       53 1:legitimate 2:impostor   +   1 
+       52 1:legitimate 1:legitimate       1 
+       53 1:legitimate 1:legitimate       1 
        54 1:legitimate 2:impostor   +   1 
        55 1:legitimate 2:impostor   +   1 
-       56 1:legitimate 2:impostor   +   1 
+       56 1:legitimate 1:legitimate       1 
        57 1:legitimate 2:impostor   +   1 
-       58 1:legitimate 2:impostor   +   1 
+       58 1:legitimate 1:legitimate       1 
        59 1:legitimate 2:impostor   +   1 
        60 1:legitimate 2:impostor   +   1 
-       61 1:legitimate 2:impostor   +   1 
-       62 1:legitimate 2:impostor   +   1 
-       63 1:legitimate 2:impostor   +   1 
-       64 1:legitimate 2:impostor   +   1 
-       65 1:legitimate 2:impostor   +   1 
-       66 1:legitimate 2:impostor   +   1 
-       67 1:legitimate 2:impostor   +   1 
-       68 1:legitimate 2:impostor   +   1 
-       69 1:legitimate 2:impostor   +   1 
+       61 1:legitimate 1:legitimate       1 
+       62 1:legitimate 1:legitimate       1 
+       63 1:legitimate 1:legitimate       1 
+       64 1:legitimate 1:legitimate       1 
+       65 1:legitimate 1:legitimate       1 
+       66 1:legitimate 1:legitimate       1 
+       67 1:legitimate 1:legitimate       1 
+       68 1:legitimate 1:legitimate       1 
+       69 1:legitimate 1:legitimate       1 
        70 1:legitimate 2:impostor   +   1 
-       71 1:legitimate 2:impostor   +   1 
-       72 1:legitimate 2:impostor   +   1 
-       73 1:legitimate 2:impostor   +   1 
-       74 1:legitimate 2:impostor   +   1 
-       75 1:legitimate 2:impostor   +   1 
-       76 1:legitimate 2:impostor   +   1 
-       77 1:legitimate 2:impostor   +   1 
-       78 1:legitimate 2:impostor   +   1 
-       79 1:legitimate 2:impostor   +   1 
-       80 1:legitimate 2:impostor   +   1 
+       71 1:legitimate 1:legitimate       1 
+       72 1:legitimate 1:legitimate       1 
+       73 1:legitimate 1:legitimate       1 
+       74 1:legitimate 1:legitimate       1 
+       75 1:legitimate 1:legitimate       1 
+       76 1:legitimate 1:legitimate       1 
+       77 1:legitimate 1:legitimate       1 
+       78 1:legitimate 1:legitimate       1 
+       79 1:legitimate 1:legitimate       1 
+       80 1:legitimate 1:legitimate       1 
        81 1:legitimate 2:impostor   +   1 
-       82 1:legitimate 2:impostor   +   1 
-       83 1:legitimate 2:impostor   +   1 
-       84 1:legitimate 2:impostor   +   1 
-       85 1:legitimate 2:impostor   +   1 
-       86 1:legitimate 2:impostor   +   1 
+       82 1:legitimate 1:legitimate       1 
+       83 1:legitimate 1:legitimate       1 
+       84 1:legitimate 1:legitimate       1 
+       85 1:legitimate 1:legitimate       1 
+       86 1:legitimate 1:legitimate       1 
        87 1:legitimate 2:impostor   +   1 
-       88 1:legitimate 2:impostor   +   1 
-       89 1:legitimate 2:impostor   +   1 
-       90 1:legitimate 2:impostor   +   1 
-       91 1:legitimate 2:impostor   +   1 
+       88 1:legitimate 1:legitimate       1 
+       89 1:legitimate 1:legitimate       1 
+       90 1:legitimate 1:legitimate       1 
+       91 1:legitimate 1:legitimate       1 
        92 1:legitimate 2:impostor   +   1 
-       93 1:legitimate 2:impostor   +   1 
-       94 1:legitimate 2:impostor   +   1 
-       95 1:legitimate 2:impostor   +   1 
-       96 1:legitimate 2:impostor   +   1 
-       97 1:legitimate 2:impostor   +   1 
-       98 1:legitimate 2:impostor   +   1 
-       99 1:legitimate 2:impostor   +   1 
+       93 1:legitimate 1:legitimate       1 
+       94 1:legitimate 1:legitimate       1 
+       95 1:legitimate 1:legitimate       1 
+       96 1:legitimate 1:legitimate       1 
+       97 1:legitimate 1:legitimate       1 
+       98 1:legitimate 1:legitimate       1 
+       99 1:legitimate 1:legitimate       1 
       100 1:legitimate 2:impostor   +   1 
-      101 1:legitimate 2:impostor   +   1 
-      102 1:legitimate 2:impostor   +   1 
-      103 1:legitimate 2:impostor   +   1 
-      104 1:legitimate 2:impostor   +   1 
-      105 1:legitimate 2:impostor   +   1 
-      106 1:legitimate 2:impostor   +   1 
-      107 1:legitimate 2:impostor   +   1 
-      108 1:legitimate 2:impostor   +   1 
-      109 1:legitimate 2:impostor   +   1 
-      110 1:legitimate 2:impostor   +   1 
-      111 1:legitimate 2:impostor   +   1 
-      112 1:legitimate 2:impostor   +   1 
-      113 1:legitimate 2:impostor   +   1 
-      114 1:legitimate 2:impostor   +   1 
-      115 1:legitimate 2:impostor   +   1 
-      116 1:legitimate 2:impostor   +   1 
-      117 1:legitimate 2:impostor   +   1 
-      118 1:legitimate 2:impostor   +   1 
-      119 1:legitimate 2:impostor   +   1 
+      101 1:legitimate 1:legitimate       1 
+      102 1:legitimate 1:legitimate       1 
+      103 1:legitimate 1:legitimate       1 
+      104 1:legitimate 1:legitimate       1 
+      105 1:legitimate 1:legitimate       1 
+      106 1:legitimate 1:legitimate       1 
+      107 1:legitimate 1:legitimate       1 
+      108 1:legitimate 1:legitimate       1 
+      109 1:legitimate 1:legitimate       1 
+      110 1:legitimate 1:legitimate       1 
+      111 1:legitimate 1:legitimate       1 
+      112 1:legitimate 1:legitimate       1 
+      113 1:legitimate 1:legitimate       1 
+      114 1:legitimate 1:legitimate       1 
+      115 1:legitimate 1:legitimate       1 
+      116 1:legitimate 1:legitimate       1 
+      117 1:legitimate 1:legitimate       1 
+      118 1:legitimate 1:legitimate       1 
+      119 1:legitimate 1:legitimate       1 
       120 1:legitimate 2:impostor   +   1 
-      121 1:legitimate 2:impostor   +   1 
-      122 1:legitimate 2:impostor   +   1 
-      123 1:legitimate 2:impostor   +   1 
-      124 1:legitimate 2:impostor   +   1 
-      125 1:legitimate 2:impostor   +   1 
+      121 1:legitimate 1:legitimate       1 
+      122 1:legitimate 1:legitimate       1 
+      123 1:legitimate 1:legitimate       1 
+      124 1:legitimate 1:legitimate       1 
+      125 1:legitimate 1:legitimate       1 
       126 1:legitimate 1:legitimate       1 
-      127 1:legitimate 2:impostor   +   1 
-      128 1:legitimate 2:impostor   +   1 
-      129 1:legitimate 2:impostor   +   1 
-      130 1:legitimate 2:impostor   +   1 
-      131 1:legitimate 2:impostor   +   1 
+      127 1:legitimate 1:legitimate       1 
+      128 1:legitimate 1:legitimate       1 
+      129 1:legitimate 1:legitimate       1 
+      130 1:legitimate 1:legitimate       1 
+      131 1:legitimate 1:legitimate       1 
       132 1:legitimate 1:legitimate       1 
       133 1:legitimate 2:impostor   +   1 
-      134 1:legitimate 2:impostor   +   1 
-      135 1:legitimate 2:impostor   +   1 
-      136 1:legitimate 2:impostor   +   1 
-      137 1:legitimate 2:impostor   +   1 
-      138 1:legitimate 2:impostor   +   1 
-      139 1:legitimate 2:impostor   +   1 
-      140 1:legitimate 2:impostor   +   1 
-      141 1:legitimate 2:impostor   +   1 
-      142 1:legitimate 2:impostor   +   1 
-      143 1:legitimate 2:impostor   +   1 
-      144 1:legitimate 2:impostor   +   1 
-      145 1:legitimate 2:impostor   +   1 
-      146 1:legitimate 2:impostor   +   1 
-      147 1:legitimate 2:impostor   +   1 
-      148 1:legitimate 2:impostor   +   1 
+      134 1:legitimate 1:legitimate       1 
+      135 1:legitimate 1:legitimate       1 
+      136 1:legitimate 1:legitimate       1 
+      137 1:legitimate 1:legitimate       1 
+      138 1:legitimate 1:legitimate       1 
+      139 1:legitimate 1:legitimate       1 
+      140 1:legitimate 1:legitimate       1 
+      141 1:legitimate 1:legitimate       1 
+      142 1:legitimate 1:legitimate       1 
+      143 1:legitimate 1:legitimate       1 
+      144 1:legitimate 1:legitimate       1 
+      145 1:legitimate 1:legitimate       1 
+      146 1:legitimate 1:legitimate       1 
+      147 1:legitimate 1:legitimate       1 
+      148 1:legitimate 1:legitimate       1 
       149 1:legitimate 2:impostor   +   1 
-      150 1:legitimate 2:impostor   +   1 
-      151 1:legitimate 2:impostor   +   1 
-      152 1:legitimate 2:impostor   +   1 
+      150 1:legitimate 1:legitimate       1 
+      151 1:legitimate 1:legitimate       1 
+      152 1:legitimate 1:legitimate       1 
       153 1:legitimate 1:legitimate       1 
-      154 1:legitimate 2:impostor   +   1 
-      155 1:legitimate 2:impostor   +   1 
-      156 1:legitimate 2:impostor   +   1 
-      157 1:legitimate 2:impostor   +   1 
-      158 1:legitimate 2:impostor   +   1 
-      159 1:legitimate 2:impostor   +   1 
-      160 1:legitimate 2:impostor   +   1 
-      161 1:legitimate 2:impostor   +   1 
-      162 1:legitimate 2:impostor   +   1 
-      163 1:legitimate 2:impostor   +   1 
+      154 1:legitimate 1:legitimate       1 
+      155 1:legitimate 1:legitimate       1 
+      156 1:legitimate 1:legitimate       1 
+      157 1:legitimate 1:legitimate       1 
+      158 1:legitimate 1:legitimate       1 
+      159 1:legitimate 1:legitimate       1 
+      160 1:legitimate 1:legitimate       1 
+      161 1:legitimate 1:legitimate       1 
+      162 1:legitimate 1:legitimate       1 
+      163 1:legitimate 1:legitimate       1 
       164 1:legitimate 2:impostor   +   1 
       165 1:legitimate 2:impostor   +   1 
       166 1:legitimate 2:impostor   +   1 
@@ -223,224 +223,4 @@
       218 1:legitimate 2:impostor   +   1 
       219 1:legitimate 2:impostor   +   1 
       220 1:legitimate 2:impostor   +   1 
-      221 1:legitimate 2:impostor   +   1 
-      222 1:legitimate 2:impostor   +   1 
-      223 1:legitimate 2:impostor   +   1 
-      224 1:legitimate 2:impostor   +   1 
-      225 1:legitimate 2:impostor   +   1 
-      226 1:legitimate 2:impostor   +   1 
-      227 1:legitimate 2:impostor   +   1 
-      228 1:legitimate 2:impostor   +   1 
-      229 1:legitimate 2:impostor   +   1 
-      230 1:legitimate 2:impostor   +   1 
-      231 1:legitimate 2:impostor   +   1 
-      232 1:legitimate 2:impostor   +   1 
-      233 1:legitimate 2:impostor   +   1 
-      234 1:legitimate 2:impostor   +   1 
-      235 1:legitimate 2:impostor   +   1 
-      236 1:legitimate 2:impostor   +   1 
-      237 1:legitimate 2:impostor   +   1 
-      238 1:legitimate 2:impostor   +   1 
-      239 1:legitimate 2:impostor   +   1 
-      240 1:legitimate 2:impostor   +   1 
-      241 1:legitimate 2:impostor   +   1 
-      242 1:legitimate 2:impostor   +   1 
-      243 1:legitimate 2:impostor   +   1 
-      244 1:legitimate 2:impostor   +   1 
-      245 1:legitimate 2:impostor   +   1 
-      246 1:legitimate 2:impostor   +   1 
-      247 1:legitimate 2:impostor   +   1 
-      248 1:legitimate 2:impostor   +   1 
-      249 1:legitimate 2:impostor   +   1 
-      250 1:legitimate 2:impostor   +   1 
-      251 1:legitimate 2:impostor   +   1 
-      252 1:legitimate 2:impostor   +   1 
-      253 1:legitimate 2:impostor   +   1 
-      254 1:legitimate 2:impostor   +   1 
-      255 1:legitimate 2:impostor   +   1 
-      256 1:legitimate 2:impostor   +   1 
-      257 1:legitimate 2:impostor   +   1 
-      258 1:legitimate 2:impostor   +   1 
-      259 1:legitimate 2:impostor   +   1 
-      260 1:legitimate 2:impostor   +   1 
-      261 1:legitimate 2:impostor   +   1 
-      262 1:legitimate 1:legitimate       1 
-      263 1:legitimate 2:impostor   +   1 
-      264 1:legitimate 1:legitimate       1 
-      265 1:legitimate 1:legitimate       1 
-      266 1:legitimate 2:impostor   +   1 
-      267 1:legitimate 2:impostor   +   1 
-      268 1:legitimate 2:impostor   +   1 
-      269 1:legitimate 1:legitimate       1 
-      270 1:legitimate 2:impostor   +   1 
-      271 1:legitimate 2:impostor   +   1 
-      272 1:legitimate 1:legitimate       1 
-      273 1:legitimate 1:legitimate       1 
-      274 1:legitimate 2:impostor   +   1 
-      275 1:legitimate 2:impostor   +   1 
-      276 1:legitimate 1:legitimate       1 
-      277 1:legitimate 2:impostor   +   1 
-      278 1:legitimate 1:legitimate       1 
-      279 1:legitimate 2:impostor   +   1 
-      280 1:legitimate 2:impostor   +   1 
-      281 1:legitimate 1:legitimate       1 
-      282 1:legitimate 1:legitimate       1 
-      283 1:legitimate 1:legitimate       1 
-      284 1:legitimate 1:legitimate       1 
-      285 1:legitimate 1:legitimate       1 
-      286 1:legitimate 1:legitimate       1 
-      287 1:legitimate 1:legitimate       1 
-      288 1:legitimate 1:legitimate       1 
-      289 1:legitimate 1:legitimate       1 
-      290 1:legitimate 2:impostor   +   1 
-      291 1:legitimate 1:legitimate       1 
-      292 1:legitimate 1:legitimate       1 
-      293 1:legitimate 1:legitimate       1 
-      294 1:legitimate 1:legitimate       1 
-      295 1:legitimate 1:legitimate       1 
-      296 1:legitimate 1:legitimate       1 
-      297 1:legitimate 1:legitimate       1 
-      298 1:legitimate 1:legitimate       1 
-      299 1:legitimate 1:legitimate       1 
-      300 1:legitimate 1:legitimate       1 
-      301 1:legitimate 2:impostor   +   1 
-      302 1:legitimate 1:legitimate       1 
-      303 1:legitimate 1:legitimate       1 
-      304 1:legitimate 1:legitimate       1 
-      305 1:legitimate 1:legitimate       1 
-      306 1:legitimate 1:legitimate       1 
-      307 1:legitimate 2:impostor   +   1 
-      308 1:legitimate 1:legitimate       1 
-      309 1:legitimate 1:legitimate       1 
-      310 1:legitimate 1:legitimate       1 
-      311 1:legitimate 1:legitimate       1 
-      312 1:legitimate 2:impostor   +   1 
-      313 1:legitimate 1:legitimate       1 
-      314 1:legitimate 1:legitimate       1 
-      315 1:legitimate 1:legitimate       1 
-      316 1:legitimate 1:legitimate       1 
-      317 1:legitimate 1:legitimate       1 
-      318 1:legitimate 1:legitimate       1 
-      319 1:legitimate 1:legitimate       1 
-      320 1:legitimate 2:impostor   +   1 
-      321 1:legitimate 1:legitimate       1 
-      322 1:legitimate 1:legitimate       1 
-      323 1:legitimate 1:legitimate       1 
-      324 1:legitimate 1:legitimate       1 
-      325 1:legitimate 1:legitimate       1 
-      326 1:legitimate 1:legitimate       1 
-      327 1:legitimate 1:legitimate       1 
-      328 1:legitimate 1:legitimate       1 
-      329 1:legitimate 1:legitimate       1 
-      330 1:legitimate 1:legitimate       1 
-      331 1:legitimate 1:legitimate       1 
-      332 1:legitimate 1:legitimate       1 
-      333 1:legitimate 1:legitimate       1 
-      334 1:legitimate 1:legitimate       1 
-      335 1:legitimate 1:legitimate       1 
-      336 1:legitimate 1:legitimate       1 
-      337 1:legitimate 1:legitimate       1 
-      338 1:legitimate 1:legitimate       1 
-      339 1:legitimate 1:legitimate       1 
-      340 1:legitimate 2:impostor   +   1 
-      341 1:legitimate 1:legitimate       1 
-      342 1:legitimate 1:legitimate       1 
-      343 1:legitimate 1:legitimate       1 
-      344 1:legitimate 1:legitimate       1 
-      345 1:legitimate 1:legitimate       1 
-      346 1:legitimate 1:legitimate       1 
-      347 1:legitimate 1:legitimate       1 
-      348 1:legitimate 1:legitimate       1 
-      349 1:legitimate 1:legitimate       1 
-      350 1:legitimate 1:legitimate       1 
-      351 1:legitimate 1:legitimate       1 
-      352 1:legitimate 1:legitimate       1 
-      353 1:legitimate 2:impostor   +   1 
-      354 1:legitimate 1:legitimate       1 
-      355 1:legitimate 1:legitimate       1 
-      356 1:legitimate 1:legitimate       1 
-      357 1:legitimate 1:legitimate       1 
-      358 1:legitimate 1:legitimate       1 
-      359 1:legitimate 1:legitimate       1 
-      360 1:legitimate 1:legitimate       1 
-      361 1:legitimate 1:legitimate       1 
-      362 1:legitimate 1:legitimate       1 
-      363 1:legitimate 1:legitimate       1 
-      364 1:legitimate 1:legitimate       1 
-      365 1:legitimate 1:legitimate       1 
-      366 1:legitimate 1:legitimate       1 
-      367 1:legitimate 1:legitimate       1 
-      368 1:legitimate 1:legitimate       1 
-      369 1:legitimate 2:impostor   +   1 
-      370 1:legitimate 1:legitimate       1 
-      371 1:legitimate 1:legitimate       1 
-      372 1:legitimate 1:legitimate       1 
-      373 1:legitimate 1:legitimate       1 
-      374 1:legitimate 1:legitimate       1 
-      375 1:legitimate 1:legitimate       1 
-      376 1:legitimate 1:legitimate       1 
-      377 1:legitimate 1:legitimate       1 
-      378 1:legitimate 1:legitimate       1 
-      379 1:legitimate 1:legitimate       1 
-      380 1:legitimate 1:legitimate       1 
-      381 1:legitimate 1:legitimate       1 
-      382 1:legitimate 1:legitimate       1 
-      383 1:legitimate 1:legitimate       1 
-      384 1:legitimate 2:impostor   +   1 
-      385 1:legitimate 2:impostor   +   1 
-      386 1:legitimate 2:impostor   +   1 
-      387 1:legitimate 2:impostor   +   1 
-      388 1:legitimate 2:impostor   +   1 
-      389 1:legitimate 2:impostor   +   1 
-      390 1:legitimate 2:impostor   +   1 
-      391 1:legitimate 2:impostor   +   1 
-      392 1:legitimate 2:impostor   +   1 
-      393 1:legitimate 2:impostor   +   1 
-      394 1:legitimate 2:impostor   +   1 
-      395 1:legitimate 2:impostor   +   1 
-      396 1:legitimate 2:impostor   +   1 
-      397 1:legitimate 2:impostor   +   1 
-      398 1:legitimate 2:impostor   +   1 
-      399 1:legitimate 2:impostor   +   1 
-      400 1:legitimate 2:impostor   +   1 
-      401 1:legitimate 2:impostor   +   1 
-      402 1:legitimate 2:impostor   +   1 
-      403 1:legitimate 2:impostor   +   1 
-      404 1:legitimate 2:impostor   +   1 
-      405 1:legitimate 2:impostor   +   1 
-      406 1:legitimate 2:impostor   +   1 
-      407 1:legitimate 2:impostor   +   1 
-      408 1:legitimate 2:impostor   +   1 
-      409 1:legitimate 2:impostor   +   1 
-      410 1:legitimate 2:impostor   +   1 
-      411 1:legitimate 2:impostor   +   1 
-      412 1:legitimate 2:impostor   +   1 
-      413 1:legitimate 2:impostor   +   1 
-      414 1:legitimate 2:impostor   +   1 
-      415 1:legitimate 2:impostor   +   1 
-      416 1:legitimate 2:impostor   +   1 
-      417 1:legitimate 2:impostor   +   1 
-      418 1:legitimate 2:impostor   +   1 
-      419 1:legitimate 2:impostor   +   1 
-      420 1:legitimate 2:impostor   +   1 
-      421 1:legitimate 2:impostor   +   1 
-      422 1:legitimate 2:impostor   +   1 
-      423 1:legitimate 2:impostor   +   1 
-      424 1:legitimate 2:impostor   +   1 
-      425 1:legitimate 2:impostor   +   1 
-      426 1:legitimate 2:impostor   +   1 
-      427 1:legitimate 2:impostor   +   1 
-      428 1:legitimate 2:impostor   +   1 
-      429 1:legitimate 2:impostor   +   1 
-      430 1:legitimate 2:impostor   +   1 
-      431 1:legitimate 2:impostor   +   1 
-      432 1:legitimate 2:impostor   +   1 
-      433 1:legitimate 2:impostor   +   1 
-      434 1:legitimate 2:impostor   +   1 
-      435 1:legitimate 2:impostor   +   1 
-      436 1:legitimate 2:impostor   +   1 
-      437 1:legitimate 2:impostor   +   1 
-      438 1:legitimate 2:impostor   +   1 
-      439 1:legitimate 2:impostor   +   1 
-      440 1:legitimate 2:impostor   +   1 
 
