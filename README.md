@@ -19,7 +19,7 @@ No Windows- or Microsoft-specific features in the execution environment are requ
 
 ### Sample files format
 
-Input and output takes the form of CSV files. Each input sample is represented by CSV file with a fixed three column structure including virtual key code, hold time, and flight time for each keystroke, as shown below. Invalid or unknown timing values are represented with negative numbers. Samples by each user are grouped by folders. 
+Input and output take the form of CSV files. Each input sample is represented by CSV file with a fixed three-column structure including virtual key code, hold time, and flight time for each keystroke, as shown below. Invalid or unknown timing values are represented with negative numbers. Samples by each user are grouped by folders. 
 
 1. **VK**. _Virtual key code_. Virtual key code identifying the current keystroke, as defined by [Microsoft reference](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 2. **HT**. _Hold time_. Interval between key press and key release event, in milliseconds.
